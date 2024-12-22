@@ -17,8 +17,8 @@ h1{
     color: #f8fafc;
 }
 h2{
-    font-size: 2rem;
-    font-size: clamp(2rem, -1rem + 8vw, 3rem);
+    font-size: 1.4rem;
+    font-size: clamp(1.4rem, -1rem + 8vw, 3rem);
     color: #f8fafc;
     margin: 0%;
 }
@@ -58,7 +58,7 @@ span{
     color: #64748b;
 }
 a{
-    color: #64748b;
+    color: #f8fafc;
     text-decoration: none;
 }
 ol{
