@@ -28,7 +28,11 @@
     color: #64748b;
     margin: 0.1rem 0rem 0.5rem 0rem;
 }
-.list-pengalaman:hover{
+.list-section{
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+.list-section:hover{
     border-radius: 0.5rem;
     background-color: #33415522;
     transition: 0.3s;
